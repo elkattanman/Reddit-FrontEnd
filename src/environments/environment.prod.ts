@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'https://elkattanman-reddit.herokuapp.com/'
+  baseUrl: 'https://elkattanman-reddit-backend.herokuapp.com/'
 };
