@@ -16,7 +16,7 @@ const routes: Routes = [
   { path: 'list-subreddits', component: ListSubredditsComponent },
   { path: 'user-profile/:name', component: UserPofileComponent },
   { path: 'view-post/:id', component: ViewPostComponent },
-  { path: 'signup', component: SignUpComponent },
+  { path: 'sign-up', component: SignUpComponent },
   { path: 'login', component: LoginComponent }
 ];
 
